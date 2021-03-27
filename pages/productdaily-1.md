@@ -2,4 +2,4 @@
 title: productdaily-1
 ---
 
-## logseq
+## [logseq](https://logseq.com/)
