@@ -2,4 +2,4 @@
 title: daylog
 ---
 
-## iscroll 无法左右移动
+## iscroll v5.2.0 无法左右移动
